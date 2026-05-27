@@ -33,6 +33,7 @@ I don't just want to write the code; I want to ensure the code serves a purpose,
 
 
 I thrive on:
+
             *Requirement Analysis: Understanding the "why" behind the software.
             
             *Workflow Design: Planning how data moves and how systems interact.
