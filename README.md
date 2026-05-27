@@ -29,9 +29,12 @@ I enjoy learning new things, new technologies, and continuously building my skil
 
 My goal is to evolve into a **Systems Analyst / Solutions Architect**. 
 I am passionate about the "blueprint" phase of development where ideas are transformed into functional designs, logical flows, and scalable solutions. 
-
 I don't just want to write the code; I want to ensure the code serves a purpose, improves business operations, and provides seamless user experiences. 
+
+
 I thrive on:
-            * **Requirement Analysis:** Understanding the "why" behind the software.
-            * **Workflow Design:** Planning how data moves and how systems interact.
-            * **Problem Solving:** Creating elegant, efficient solutions for complex business logic.
+            *Requirement Analysis: Understanding the "why" behind the software.
+            
+            *Workflow Design: Planning how data moves and how systems interact.
+            
+            *Problem Solving: Creating elegant, efficient solutions for complex business logic.
